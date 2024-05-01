@@ -1,0 +1,5 @@
+tensorflow
+flask
+tkinter
+pickle
+numpy
