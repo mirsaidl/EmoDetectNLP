@@ -28,7 +28,7 @@ pip install -r requirements.txt
 python tkinter-app.py
 
 # Run Flask app
-python flask-app.py # you will local-host link follow the link
+python flask-app.py # follow local-host link
 ```
 
 ## Dataset Information
